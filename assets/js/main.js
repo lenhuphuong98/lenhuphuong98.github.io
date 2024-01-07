@@ -6,7 +6,7 @@
 * License: https://bootstrapmade.com/license/
 */
 var typing=new Typed(".text", {
-  strings: ["", "UI UX Designer", "Web Designer", "3D Modelling", "3D Animation"],
+  strings: ["", "UI UX Designer", "FrontEnd Developer", "3D Modelling", "3D Animation"],
   typeSpeed: 100,
   backSpeed: 40,
   loop: true,
