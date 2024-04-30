@@ -208,7 +208,7 @@ h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: #15161A;
+  background: rgb(21, 22, 26, 0.8);
 }
 
 #header.header-top .social-links,
@@ -583,8 +583,9 @@ section.section-show {
 }
 
 section .container {
-  background: #15161A;
+  background: rgba(28,28,28,0.35);
   padding: 30px;
+  backdrop-filter: blur(2.8rem);
 }
 
 @media (max-width: 768px) {
